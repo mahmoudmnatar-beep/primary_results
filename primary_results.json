@@ -47173,5 +47173,4459 @@
             "sports": "اجتاز",
             "discover": "اجتاز"
         }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ابراهيم رمضان ابراهيم حمدان محمود",
+        "total": 155,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "65",
+            "math": "45",
+            "english": "45",
+            "religion": "55"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ابوالنجا يوسف محمد محمود ادم",
+        "total": 95,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "35",
+            "math": "30",
+            "english": "30",
+            "religion": "55"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "احمد تامر احمد جابر دندراوى",
+        "total": 299,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "احمد حسن عبدالراضى عبدالله رشوان",
+        "total": 287,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "96",
+            "math": "95",
+            "english": "96",
+            "religion": "98"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "احمد عبدالرحمن راضى عطية ابراهيم",
+        "total": 120,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "40",
+            "english": "35",
+            "religion": "55"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "احمد محمد رشدى على الدندراوى",
+        "total": 299,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "احمد محمد عبدالنبى فخرى عرفات",
+        "total": 195,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "75",
+            "english": "50",
+            "religion": "80"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "احمد مصطفى احمد فؤاد احمد",
+        "total": 279,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "95",
+            "english": "89",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "احمد مصطفي جاد الرب كامل عبدالظاهر",
+        "total": 190,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "60",
+            "math": "80",
+            "english": "50",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "احمد ممدوح معوض موسى اسماعيل",
+        "total": 125,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "40",
+            "english": "40",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ادم حسين احمد عبدالله محمد",
+        "total": 275,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "85",
+            "english": "95",
+            "religion": "99"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ادم عيسى سليم هاشم موسى",
+        "total": 95,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "30",
+            "math": "35",
+            "english": "30",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ادم محمد خلف سعيد راشد",
+        "total": 225,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "75",
+            "math": "75",
+            "english": "75",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ادم وليد خديوى على الدندراوى",
+        "total": 282,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "95",
+            "english": "92",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "اسر عصام عوض الله خضرى محمد",
+        "total": 135,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "45",
+            "english": "40",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "اسر محمود زكريا عبدالراضى خليل",
+        "total": 299,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "اسماعيل ايمن سيداحمد ابراهيم",
+        "total": 155,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "65",
+            "english": "45",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "انس محمد عبدالله محمد مسعود",
+        "total": 105,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "30",
+            "math": "50",
+            "english": "25",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "بلال علاء فوزى فخرى صبره",
+        "total": 163,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "35",
+            "math": "80",
+            "english": "48",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "جليبيب خالد محمد سالم حميد",
+        "total": 135,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "45",
+            "english": "40",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "حسن علاء عمر سنبل عبدالكريم",
+        "total": 125,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "40",
+            "english": "40",
+            "religion": "55"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "حمزة محمود عبدالعظيم ابوالوفا يوسف",
+        "total": 255,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "85",
+            "english": "80",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "حمزه محمد اسماعيل عبدالسميع غزالى",
+        "total": 220,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "90",
+            "english": "60",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "زياد ابراهيم محمد قاسم حسن",
+        "total": 295,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "95",
+            "religion": "93"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "سيف احمد عبدالرازق ابراهيم قناوى",
+        "total": 200,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "50",
+            "english": "60",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "شاذلى محمد فاروق محمد عبدالمولى",
+        "total": 265,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "95",
+            "english": "80",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "صفوان احمد محمود احمد اسماعيل",
+        "total": 200,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "50",
+            "english": "60",
+            "religion": "70"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ضياء ابراهيم يوسف عبده يوسف",
+        "total": 299,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "99",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "عبدالرحمن احمد عبدالهادى احمد على",
+        "total": 276,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "96",
+            "english": "85",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "عبدالرحمن فتحى محمد سالم حميد",
+        "total": 110,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "30",
+            "math": "50",
+            "english": "30",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "عبدالله ابو طالب حسن محمد ابو طالب",
+        "total": 229,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "88",
+            "math": "86",
+            "english": "55",
+            "religion": "85"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "عبدالله اسامه احمد مرسى مصطفى",
+        "total": 215,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "65",
+            "english": "80",
+            "religion": "85"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "عبدالله حسين محمد عبدالحق خضرى يوسف",
+        "total": 295,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "95",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "عبدالله علاء محمد شفيق متولى",
+        "total": 261,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "86",
+            "english": "85",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "علاء الدين احمد محمد احمد حسين",
+        "total": 180,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "65",
+            "math": "55",
+            "english": "60",
+            "religion": "80"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "على محمود عبدالسميع محمد عثمان",
+        "total": 130,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "45",
+            "english": "40",
+            "religion": "80"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "عمار ابراهيم عبد الهادي شمس الدين محمد",
+        "total": 185,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "65",
+            "math": "60",
+            "english": "60",
+            "religion": "89"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "عمر طلعت صالح احمد محمد",
+        "total": 180,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "65",
+            "math": "65",
+            "english": "50",
+            "religion": "85"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "عمر مبارك عبدالحافظ محمد حرزالله",
+        "total": 299,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "عمر موسى رمضان موسى على",
+        "total": 276,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "96",
+            "english": "90",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "كريم عبدالله عبيد سليم هاشم",
+        "total": 285,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "100",
+            "english": "90",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مازن هانى سيد الطاهر محمد",
+        "total": 237,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "85",
+            "math": "87",
+            "english": "65",
+            "religion": "85"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مالك سعد حجاج وهبي سليم",
+        "total": 120,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "40",
+            "math": "40",
+            "english": "40",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مالك عماد عبدالحافظ محمد حرزالله",
+        "total": 299,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مالك مصطفى احمد عبدالراضى عبدالجليل",
+        "total": 241,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "80",
+            "math": "86",
+            "english": "75",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مالك نصر صلاح خلف الله محمد",
+        "total": 85,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "30",
+            "math": "30",
+            "english": "25",
+            "religion": "50"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "محمد ابراهيم احمد ابرهيم عامر",
+        "total": 287,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "90",
+            "english": "97",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "محمد ابراهيم محمد حجاج خليل",
+        "total": 151,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "56",
+            "english": "50",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "محمد ادهم محمد عبدالحكيم عبدالعاطى",
+        "total": 266,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "86",
+            "english": "90",
+            "religion": "80"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "محمد النجار محمد ابوالوفا حسن",
+        "total": 299,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "محمد ايمن عبدالهادى مصطفى غزالى",
+        "total": 294,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "96",
+            "english": "98",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "محمد جابر حميد مصطفى يوسف",
+        "total": 135,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "40",
+            "math": "50",
+            "english": "45",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "محمد عيد بدير محمودحسن",
+        "total": 160,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "65",
+            "english": "50",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "محمد محمود محمد محمود ادم",
+        "total": 135,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "45",
+            "english": "45",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "محمد يوسف سالم حميد حسن",
+        "total": 200,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "65",
+            "math": "75",
+            "english": "60",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "محمود ابوالحجاج سيداحمد مصطفى غزالى",
+        "total": 286,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "95",
+            "english": "96",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "محمود محمد سيد محمد احمد",
+        "total": 215,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "70",
+            "english": "75",
+            "religion": "80"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "معاذ ايمن محمد عبد العزيز خليل",
+        "total": 287,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "97",
+            "english": "95",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "معاذ حمدى فوزى احمد مجاهد",
+        "total": 278,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "93",
+            "math": "90",
+            "english": "95",
+            "religion": "90"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "معتز وائل سعيد فخرى صيرة",
+        "total": 240,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "75",
+            "math": "80",
+            "english": "85",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "منذر رمضان صدقى محمد سعد",
+        "total": 225,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "75",
+            "math": "85",
+            "english": "65",
+            "religion": "70"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "هاشم ابو بكر هاشم صبرة عبدالفتاح",
+        "total": 181,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "60",
+            "math": "56",
+            "english": "65",
+            "religion": "70"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ياسين حماده عبدالرسول حسين خليل",
+        "total": 265,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "85",
+            "math": "90",
+            "english": "90",
+            "religion": "85"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ياسين عبدالحق ابوالحمد سعيد احمد",
+        "total": 294,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "95",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "يحى محمود حسين محمد عبدالله",
+        "total": 299,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "يسين علاء فوزى حسن على",
+        "total": 225,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "85",
+            "math": "75",
+            "english": "65",
+            "religion": "90"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "يسين محمود حلمى احمد محمود",
+        "total": 135,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "45",
+            "english": "45",
+            "religion": "50"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "يوسف احمد عصمت عمار الطواب",
+        "total": 130,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "45",
+            "english": "40",
+            "religion": "50"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "يوسف عبده محمد مصطفى حسن",
+        "total": 90,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "30",
+            "math": "35",
+            "english": "25",
+            "religion": "50"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "اروى احمد حسن عبيد احمد",
+        "total": 240,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "80",
+            "english": "65",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "اسيا ياسر وهبى السنوسى جاد",
+        "total": 136,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "46",
+            "english": "45",
+            "religion": "50"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "اسيل عادل حسن محمد ابوطالب",
+        "total": 140,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "50",
+            "english": "45",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ايه رمضان محمد خليل رشوان",
+        "total": 216,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "56",
+            "english": "65",
+            "religion": "85"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ايه محمد عبدالعاطى طاهر مسعود",
+        "total": 220,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "60",
+            "english": "65",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "بسمله حمدى حسانين قرين على",
+        "total": 185,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "60",
+            "math": "65",
+            "english": "60",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "تالين يوسف عبدالرسول ابراهيم ادم",
+        "total": 255,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "80",
+            "english": "80",
+            "religion": "80"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "تسبيح يونس سعدى يونس احمد",
+        "total": 215,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "50",
+            "english": "70",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "تقوى مصطفى لبيب قاسم يوسف",
+        "total": 136,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "46",
+            "math": "45",
+            "english": "45",
+            "religion": "45"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "جنات حجاج شحات على محمد",
+        "total": 250,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "65",
+            "english": "85",
+            "religion": "98"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "جنى حماده عامر بشير مصطفى",
+        "total": 270,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "100",
+            "english": "80",
+            "religion": "85"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "جودى عباس عبدالستار كامل غزالى",
+        "total": 271,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "96",
+            "english": "80",
+            "religion": "89"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "جودى محمد طايع عطاالله عكاشه",
+        "total": 160,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "60",
+            "math": "50",
+            "english": "50",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "جورى محمود جمال يسن احمد",
+        "total": 275,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "75",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "خديجة علاء خليل عبدالظاهر حسانين",
+        "total": 275,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "90",
+            "english": "85",
+            "religion": "92"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "رحمه احمد حراجى عبداللاهى ابوالحسن",
+        "total": 145,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "45",
+            "english": "50",
+            "religion": "50"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "رحمه سعيد فرج الله سعيد محمد",
+        "total": 145,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "50",
+            "english": "50",
+            "religion": "45"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "رحيق بركات صديق عشرى محمد",
+        "total": 299,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "رغد هانى حسن عبيد احمد",
+        "total": 220,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "80",
+            "math": "75",
+            "english": "65",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "رقية عماد الدوى سعيد راشد",
+        "total": 125,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "40",
+            "math": "45",
+            "english": "40",
+            "religion": "45"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "رنا رمضان فخرى حفنى حسين",
+        "total": 265,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "100",
+            "english": "70",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "رودينا بلال سيداحمد راشد احمد",
+        "total": 170,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "80",
+            "english": "45",
+            "religion": "90"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "روفان جاد الله حجاج وهبى سليم",
+        "total": 298,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "98",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "روفان رجب سيد فهمى سباق",
+        "total": 225,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "80",
+            "math": "65",
+            "english": "80",
+            "religion": "70"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "رؤية ابراهيم فهمى سعيد احمد",
+        "total": 287,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "97",
+            "english": "90",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ريتاج احمد حسين حسب الله حسين",
+        "total": 160,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "60",
+            "math": "45",
+            "english": "55",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ريتال عصام عبدالموجود محمد سباق",
+        "total": 281,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "96",
+            "english": "95",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ريتان حسن محمد حسن محمد",
+        "total": 270,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "85",
+            "english": "95",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "زينب عبدالله مرعى احمد محمد",
+        "total": 155,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "40",
+            "english": "45",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "سجى هانى عبدالرازق ابراهيم قناوى",
+        "total": 150,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "50",
+            "english": "50",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "سعاد محمود الشامى سيد محمد",
+        "total": 145,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "45",
+            "english": "50",
+            "religion": "85"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "سما محمد فتحى ادريس محمد",
+        "total": 135,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "45",
+            "english": "45",
+            "religion": "70"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "سيلين محمد عبيد على سعيد",
+        "total": 195,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "65",
+            "english": "60",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "شروق سعد الله سيداحمد عربى عبيد الله",
+        "total": 235,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "80",
+            "math": "75",
+            "english": "80",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "شيماء نبيل عبدالمنعم جاد المولى",
+        "total": 135,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "50",
+            "english": "40",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "صفا ابراهيم محمد عبدالله على",
+        "total": 286,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "96",
+            "english": "95",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "فاطمه خليل شوقى خليل ابراهيم",
+        "total": 286,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "96",
+            "english": "95",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "فرحه اشرف سعيد عثمان محمد",
+        "total": 263,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "86",
+            "english": "87",
+            "religion": "85"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "كارمه كرم احمد الحاوي ابراهيم",
+        "total": 290,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "90",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مريم ابراهيم محمد محمد عيدالله",
+        "total": 170,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "65",
+            "english": "55",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مريم حسن سيد فهمى سباق",
+        "total": 215,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "75",
+            "english": "70",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مريم صابر عربى الطاهر محمد",
+        "total": 130,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "45",
+            "english": "40",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مريم عبداللاه سعيد ابراهيم محمد",
+        "total": 160,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "55",
+            "math": "50",
+            "english": "55",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مريم محمد على التومى محمد",
+        "total": 175,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "75",
+            "english": "50",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مشيره محمود محمد على بركات",
+        "total": 150,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "50",
+            "english": "50",
+            "religion": "50"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مكة صلاح عبدالنعيم عبدالحاكم",
+        "total": 150,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "50",
+            "english": "50",
+            "religion": "50"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مكه ابوالقاسم محمد ابوزيد عثمان",
+        "total": 150,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "50",
+            "english": "50",
+            "religion": "50"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مكه ايمن احمد يس احمد",
+        "total": 185,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "65",
+            "math": "60",
+            "english": "60",
+            "religion": "55"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مكه حسن حسانى عربى عبدالمولى",
+        "total": 220,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "75",
+            "math": "75",
+            "english": "70",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "موده وليد عبدالنجا مصطفى احمد",
+        "total": 215,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "80",
+            "math": "75",
+            "english": "60",
+            "religion": "85"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "مى عبداللاه سعيد ابراهيم محمد",
+        "total": 190,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "55",
+            "math": "80",
+            "english": "55",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ميار احمد عباس ابراهيم حسن",
+        "total": 299,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ميان عبدالكريم خلف الله مصطفى غزالى",
+        "total": 280,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "90",
+            "english": "90",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "ندى هانى محمد خليل رشوان",
+        "total": 253,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "98",
+            "math": "65",
+            "english": "90",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "نهله كريم مصطفى بشارى عرابى",
+        "total": 270,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "85",
+            "english": "90",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "نوران حسين محمود كامل غزالى",
+        "total": 240,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "85",
+            "english": "85",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "نورهان احمد بدرى امين محمد",
+        "total": 271,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "86",
+            "english": "90",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "هبة ياسر فهيم سعيد احمد",
+        "total": 293,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "96",
+            "english": "97",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "هويدا عبدالهادى حراجى محمد جادالله",
+        "total": 245,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "65",
+            "english": "90",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "يارا محمد عطيتو قرعانى سالم",
+        "total": 140,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "50",
+            "english": "45",
+            "religion": "55"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "يسر اسماعيل زكريا اسماعيل",
+        "total": 275,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "90",
+            "english": "90",
+            "religion": "90"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "يسر علاء الصادق عبد الظاهر",
+        "total": 220,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "75",
+            "math": "75",
+            "english": "70",
+            "religion": "90"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary1",
+        "name": "يسرا محمد احمد مرسى حزين",
+        "total": 295,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "95",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "احمد حسن يوسف حسنى يوسف",
+        "total": 285,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "94",
+            "math": "95",
+            "english": "96",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "احمد حماده احمد على بركات",
+        "total": 157,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "53",
+            "english": "54",
+            "religion": "55"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "احمد سيف الاسلام عبدالله عباس عامر",
+        "total": 155,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "50",
+            "english": "52",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "احمد عاطف ناجح الصادق احمد",
+        "total": 158,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "51",
+            "math": "53",
+            "english": "54",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "احمد عبدالنبى عبدالكريم محمد غزالى",
+        "total": 236,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "90",
+            "english": "93",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "احمد محمد عطيتو قرعاني سالم",
+        "total": 140,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "33",
+            "math": "53",
+            "english": "54",
+            "religion": "72"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "احمد مصطفى اسماعيل محمود بكرى",
+        "total": 177,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "53",
+            "english": "54",
+            "religion": "76"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ادم حسين شعبان حسانى حسين",
+        "total": 151,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "40",
+            "math": "55",
+            "english": "56",
+            "religion": "66"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ادم رجب عطيه على متولى",
+        "total": 210,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "69",
+            "english": "71",
+            "religion": "64"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ادم مصطفى محمد سنوسى محمد",
+        "total": 237,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "85",
+            "math": "75",
+            "english": "77",
+            "religion": "76"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "اشرف محمود حسين حسب الله حسين",
+        "total": 197,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "69",
+            "english": "75",
+            "religion": "80"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "اياد حموده فهيم سعيد احمد",
+        "total": 280,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "94",
+            "math": "92",
+            "english": "94",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ايمن حزين سعيد على محمود",
+        "total": 196,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "58",
+            "math": "68",
+            "english": "70",
+            "religion": "89"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "بدر يوسف سيداحمد امين عبيد",
+        "total": 162,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "55",
+            "english": "57",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "بلال عمر حنفى عبدالله على",
+        "total": 166,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "40",
+            "math": "62",
+            "english": "64",
+            "religion": "64"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "جاسم علاء سهرى عبداللاهى مصطفى",
+        "total": 205,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "68",
+            "math": "68",
+            "english": "69",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "جمال احمد سيد امير بدران",
+        "total": 232,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "90",
+            "english": "92",
+            "religion": "79"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "حمزه احمد فؤاد على قاسم",
+        "total": 242,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "60",
+            "math": "90",
+            "english": "92",
+            "religion": "79"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "حمزه بخيت سيد دياب ابراهيم",
+        "total": 275,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "77",
+            "math": "99",
+            "english": "99",
+            "religion": "99"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "حمزه سعيد شوقى بكرى محمد",
+        "total": 198,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "72",
+            "english": "73",
+            "religion": "70"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "حمزه سيداحمد حلمى ابوالوفا عامر",
+        "total": 288,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "99",
+            "english": "99",
+            "religion": "74"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "رشدى سيد احمد رشدى سيد احمد على",
+        "total": 193,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "69",
+            "english": "71",
+            "religion": "80"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "زياد جمال احمد السمان ابراهيم",
+        "total": 171,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "51",
+            "math": "58",
+            "english": "62",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "سالم محمد عبدالباسط حسين سالم",
+        "total": 155,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "52",
+            "english": "53",
+            "religion": "55"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "سيف علاء عبدالرسول جادالرب",
+        "total": 218,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "73",
+            "english": "75",
+            "religion": "79"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "طه محمد عبدالغنى نوبى محمود",
+        "total": 265,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "97",
+            "english": "98",
+            "religion": "99"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "عامر محمود حسن بغدادى احمد",
+        "total": 0,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "غ",
+            "math": "غ",
+            "english": "غ",
+            "religion": "غ"
+        },
+        "activities": {
+            "sports": "لم يجتاز",
+            "discover": "لم يجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "عبدالحميد منصور عبدالحميد حسانى مرسى",
+        "total": 198,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "58",
+            "math": "69",
+            "english": "71",
+            "religion": "70"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "عبدالرحمن عمادالدين سعدى فؤاد حسين",
+        "total": 156,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "51",
+            "math": "52",
+            "english": "53",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "عبدالعزيز محمد عبدالوهاب حسنى يوسف",
+        "total": 286,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "91",
+            "math": "97",
+            "english": "98",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "عبدالله محمد عبدالنيى فخرى محمد",
+        "total": 182,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "40",
+            "math": "70",
+            "english": "72",
+            "religion": "64"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "عدى حسام محمد كمال ابوالوفا",
+        "total": 298,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "99",
+            "english": "99",
+            "religion": "99"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "عدى غريب عبد النوبي فكري عبد الله",
+        "total": 143,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "40",
+            "math": "51",
+            "english": "52",
+            "religion": "55"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "على احمد حسين حسب الله حسين",
+        "total": 219,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "74",
+            "english": "75",
+            "religion": "67"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "على حجازى عبدالوهاب احمد درويش",
+        "total": 197,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "73",
+            "english": "74",
+            "religion": "64"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "عمار سمير سهرى يسين عرابى",
+        "total": 200,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "58",
+            "math": "70",
+            "english": "72",
+            "religion": "70"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "عمر بلال فخرى احمد حسين",
+        "total": 179,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "62",
+            "english": "64",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "عمرو خالد فتحي حرزالله ابوبكر",
+        "total": 156,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "51",
+            "math": "51",
+            "english": "54",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "عمرو صابر مصطفى بشارى عرابى",
+        "total": 206,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "55",
+            "math": "75",
+            "english": "76",
+            "religion": "91"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "كاراس ايمن بهيج شفيق سوريال",
+        "total": 241,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "75",
+            "english": "76",
+            "religion": "74"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "كريم علاء خيرى السنوسى محمد",
+        "total": 197,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "60",
+            "math": "68",
+            "english": "69",
+            "religion": "56"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "مالك محمد السنوسى محمد ابراهيم",
+        "total": 195,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "60",
+            "math": "67",
+            "english": "68",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "مالك محمد بربري عبدالله راشد",
+        "total": 202,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "74",
+            "english": "75",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "مالك مصعب قناوى حسين خليل",
+        "total": 209,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "60",
+            "math": "74",
+            "english": "75",
+            "religion": "64"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمد ابراهيم محمد الطاهر مسعود",
+        "total": 295,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "100",
+            "english": "100",
+            "religion": "99"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمد احمد محمد حجاج خليل",
+        "total": 290,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "92",
+            "math": "99",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمد اسامه يحي هاشم يوسف",
+        "total": 88,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "28",
+            "math": "30",
+            "english": "30",
+            "religion": "30"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمد حسام محمد حسن محمد",
+        "total": 222,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "68",
+            "math": "76",
+            "english": "78",
+            "religion": "89"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمد حساني محمد جادالرب ابراهيم",
+        "total": 233,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "85",
+            "math": "73",
+            "english": "75",
+            "religion": "64"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمد حموده عبدالحميد حسانى مرسى",
+        "total": 201,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "73",
+            "english": "75",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمد خالد ابوالمجد يوسف جاد",
+        "total": 267,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "85",
+            "math": "90",
+            "english": "92",
+            "religion": "74"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمد خالد ناجح الصادق احمد",
+        "total": 149,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "40",
+            "math": "54",
+            "english": "55",
+            "religion": "76"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمد علاء موسى ابوالوفا عامر",
+        "total": 300,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "100",
+            "english": "100",
+            "religion": "99"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمد عيسى صديق قاسم يوسف",
+        "total": 188,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "67",
+            "english": "68",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمد محمد فاروق محمد عبدالمولى",
+        "total": 288,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "99",
+            "english": "99",
+            "religion": "99"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمد ناصر بكير امام رضوان",
+        "total": 238,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "85",
+            "math": "76",
+            "english": "77",
+            "religion": "72"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمود احمد حسين ابوالوفا عامر",
+        "total": 234,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "85",
+            "math": "74",
+            "english": "75",
+            "religion": "84"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمود سيد حسن سيد محمد",
+        "total": 263,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "68",
+            "math": "97",
+            "english": "98",
+            "religion": "94"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمود عبدالشافى عبدالعاطى قرعانى سالم",
+        "total": 199,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "74",
+            "english": "75",
+            "religion": "70"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمود عمر يوسف سعيد يونس",
+        "total": 179,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "51",
+            "math": "63",
+            "english": "65",
+            "religion": "72"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "محمود عيد سعيد النوبى محمود",
+        "total": 222,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "84",
+            "english": "85",
+            "religion": "91"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "مروان جعفر محمد ابراهيم ادم",
+        "total": 144,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "35",
+            "math": "54",
+            "english": "55",
+            "religion": "50"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "منذر محمد عبدالرحمن محمد اسماعيل",
+        "total": 147,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "40",
+            "math": "53",
+            "english": "54",
+            "religion": "50"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "نوبى صلاح نوبى سيد محمد",
+        "total": 184,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "38",
+            "math": "73",
+            "english": "73",
+            "religion": "72"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "نور محمد احمد حجاج خليل",
+        "total": 191,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "38",
+            "math": "76",
+            "english": "77",
+            "religion": "72"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "نورالدين محمد نورالدين محمد احمد",
+        "total": 223,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "76",
+            "english": "77",
+            "religion": "77"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ياسر احمد حسين احمد ابراهيم",
+        "total": 218,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "73",
+            "english": "75",
+            "religion": "70"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ياسين حمادة عبدالغنى نوبى محمود",
+        "total": 195,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "58",
+            "math": "68",
+            "english": "69",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ياسين محمد سعدى عبدالسميع حسنين",
+        "total": 294,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "94",
+            "math": "100",
+            "english": "100",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ياسين منصور احمد حسن محمد حجاج",
+        "total": 185,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "58",
+            "math": "63",
+            "english": "64",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ياسين يسرى صابر بزيد طه",
+        "total": 207,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "58",
+            "math": "74",
+            "english": "75",
+            "religion": "80"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "يحيى زكريا طه بزيد طه",
+        "total": 186,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "68",
+            "english": "65",
+            "religion": "80"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "يوسف احمد يوسف فاروق دردير",
+        "total": 288,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "99",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "يوسف حموده ابوالحمد سعيد احمد خليل",
+        "total": 288,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "99",
+            "english": "99",
+            "religion": "92"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ابرار احمد محمد عباس فارس",
+        "total": 163,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "58",
+            "math": "52",
+            "english": "53",
+            "religion": "65"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "اروى ابراهيم احمد حجاج خليل",
+        "total": 195,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "58",
+            "math": "68",
+            "english": "69",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "الاء مصطفى محمد عباس فارس",
+        "total": 292,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "94",
+            "math": "99",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "الزهراء ابراهيم محمد حجاج خليل",
+        "total": 288,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "99",
+            "english": "99",
+            "religion": "99"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ايه محمود شعلان ابوالدهب شعلان",
+        "total": 288,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "99",
+            "english": "99",
+            "religion": "99"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ايه محمود محمد عباس فارس",
+        "total": 209,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "60",
+            "math": "74",
+            "english": "75",
+            "religion": "70"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "بسمه ممدوح رمضان موسى على",
+        "total": 199,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "74",
+            "english": "75",
+            "religion": "64"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "تبيانه محمد قاسم ابوالدهب شعلان",
+        "total": 291,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "95",
+            "english": "96",
+            "religion": "54"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "تسبيح جمال محمود احمد حسن",
+        "total": 298,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "99",
+            "english": "99",
+            "religion": "84"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "تسبيح نورالدين ابوالفضل مغيث محمد",
+        "total": 293,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "99",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "تسنيم نور حسين يوسف حسن",
+        "total": 292,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "94",
+            "math": "99",
+            "english": "99",
+            "religion": "99"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "تسنيم نورالدين ابوالفضل مغيث محمد",
+        "total": 283,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "94",
+            "math": "94",
+            "english": "95",
+            "religion": "99"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "تيسير سيد احمد محمد حسن احمد",
+        "total": 155,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "52",
+            "english": "53",
+            "religion": "74"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "جنى سيد عبدالرازق دياب ابراهيم",
+        "total": 217,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "68",
+            "math": "74",
+            "english": "75",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "جويريه عبدالعاطى سيد احمد كامل غزالى",
+        "total": 280,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "91",
+            "math": "94",
+            "english": "95",
+            "religion": "95"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "حياه محمود شحات اسماعيل يوسف",
+        "total": 293,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "99",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "دعاء محمد فخرى حفنى حسين",
+        "total": 174,
+        "remedial_status": "يحتاج",
+        "scores": {
+            "arabic": "45",
+            "math": "64",
+            "english": "65",
+            "religion": "64"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "رحاب اشرف فواز امين سالم",
+        "total": 177,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "63",
+            "english": "64",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "رقيه عزت شحات قناوى ابوزيد",
+        "total": 177,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "50",
+            "math": "63",
+            "english": "64",
+            "religion": "60"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "رودينا سعيد شوقى بكرى محمد",
+        "total": 187,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "60",
+            "math": "63",
+            "english": "64",
+            "religion": "69"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "رودينا عبدالرازق محمد مصطفى حسن",
+        "total": 187,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "60",
+            "math": "63",
+            "english": "64",
+            "religion": "79"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "رودينا مدحت عبدالمنعم جاد المولى طه",
+        "total": 187,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "60",
+            "math": "63",
+            "english": "64",
+            "religion": "79"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "روفان احمد عبدالستار كامل غزالى",
+        "total": 284,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "91",
+            "math": "96",
+            "english": "97",
+            "religion": "90"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ريتاج محمد سيد السنوسى رضوان",
+        "total": 205,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "68",
+            "math": "68",
+            "english": "69",
+            "religion": "70"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "زينب ابوالفضل سالم بدرى ابراهيم",
+        "total": 297,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "100",
+            "math": "98",
+            "english": "99",
+            "religion": "99"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "زينب امين عبدالمنعم يوسف محمد",
+        "total": 212,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "85",
+            "math": "63",
+            "english": "64",
+            "religion": "66"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "سجدة سيد احمد خديوى ضوى ادم",
+        "total": 159,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "54",
+            "math": "52",
+            "english": "53",
+            "religion": "55"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "سلسبيل سعد حجاج وهبى سليم",
+        "total": 205,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "68",
+            "math": "68",
+            "english": "69",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "سما محمد محمد ابراهيم ادم",
+        "total": 195,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "68",
+            "math": "63",
+            "english": "64",
+            "religion": "89"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "سما محمد مرعي فراج احمد",
+        "total": 156,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "51",
+            "math": "52",
+            "english": "53",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "سوميه مصطفى خديوى موسى خليل",
+        "total": 228,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "51",
+            "math": "88",
+            "english": "89",
+            "religion": "80"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "شهد خالد ابوالمجد يوسف جاد",
+        "total": 224,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "85",
+            "math": "69",
+            "english": "70",
+            "religion": "77"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "شهد على عبدالرازق دياب ابراهيم",
+        "total": 247,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "88",
+            "english": "89",
+            "religion": "75"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "فاطمه سليمان جادالرب سليمان احمد",
+        "total": 275,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "77",
+            "math": "99",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "فاطمه محمود عبدالمنعم يوسف محمد",
+        "total": 259,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "68",
+            "math": "95",
+            "english": "96",
+            "religion": "91"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "فريدة احمد شوقى خليل ابراهيم",
+        "total": 283,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "94",
+            "math": "94",
+            "english": "95",
+            "religion": "98"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "لبنى محمود محمد عبد اللاهى محمد",
+        "total": 287,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "98",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "مروه ابراهيم محمد عبدالله علي",
+        "total": 268,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "77",
+            "math": "95",
+            "english": "96",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "مريم ابراهيم بدير محمود حسن",
+        "total": 268,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "77",
+            "math": "95",
+            "english": "96",
+            "religion": "98"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "مريم صلاح ابراهيم موسى اسماعيل",
+        "total": 144,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "33",
+            "math": "55",
+            "english": "56",
+            "religion": "72"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "مريم على فايز احمد محمد",
+        "total": 178,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "62",
+            "english": "63",
+            "religion": "83"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "مريم محمد حسين مصطفى فارس",
+        "total": 283,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "94",
+            "math": "94",
+            "english": "95",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "مريم محمود سيد احمد عربى عطيت الله",
+        "total": 204,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "58",
+            "math": "72",
+            "english": "74",
+            "religion": "79"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "مكه عبدالكريم خلف الله مصطفى غزالى",
+        "total": 293,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "99",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ملك حسين عبدالله سعيد حسين",
+        "total": 198,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "72",
+            "english": "73",
+            "religion": "86"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "موده احمد فؤاد على قاسم",
+        "total": 237,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "90",
+            "math": "73",
+            "english": "74",
+            "religion": "84"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "موده اسامه فزاع ادريس محمد",
+        "total": 253,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "58",
+            "math": "97",
+            "english": "98",
+            "religion": "89"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "ندى احمد محمد سعيد راشد",
+        "total": 145,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "36",
+            "math": "54",
+            "english": "55",
+            "religion": "72"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "هاجر سعد عرابي هاشم عرابي",
+        "total": 295,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "100",
+            "english": "100",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "هله مجدى عطيه شحات جاد الحق",
+        "total": 190,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "68",
+            "english": "69",
+            "religion": "80"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "هنا احمد حسين احمد ابراهيم",
+        "total": 217,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "73",
+            "english": "74",
+            "religion": "76"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "هند احمد محمد ابوالوفا حسن",
+        "total": 180,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "53",
+            "math": "63",
+            "english": "64",
+            "religion": "83"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "وعد احمد ابوالحمد خضرى سعيد",
+        "total": 217,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "70",
+            "math": "73",
+            "english": "74",
+            "religion": "73"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "يارا حسن ابوالقاسم حسين عبيد",
+        "total": 295,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "95",
+            "math": "100",
+            "english": "100",
+            "religion": "99"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "يسر حسنين احمد محمد اسماعيل",
+        "total": 207,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "60",
+            "math": "73",
+            "english": "74",
+            "religion": "76"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
+    },
+    {
+        "school": "الشهيد احمد سعيد",
+        "grade": "primary2",
+        "name": "يمنى عبده وهبى على ابراهيم",
+        "total": 292,
+        "remedial_status": "لا يحتاج",
+        "scores": {
+            "arabic": "94",
+            "math": "99",
+            "english": "99",
+            "religion": "100"
+        },
+        "activities": {
+            "sports": "اجتاز",
+            "discover": "اجتاز"
+        }
     }
 ]
